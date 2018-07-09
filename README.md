@@ -26,7 +26,7 @@ Returns an array of object with the following fields:
 
 ### Installation
 
-    cordova plugin add https://github.com/subitolabs/cordova-gallery-api.git
+    cordova plugin add https://github.com/arjunmenon/cordova-gallery-api.git
 
 ### Quick example
 
