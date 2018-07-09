@@ -1,0 +1,40 @@
+{
+  "name": "cordova-gallery-api",
+  "version": "1.0.0",
+  "description": "This plugin defines a global galleryAPI object, which offer methods to query gallery albums and media.",
+  "cordova": {
+    "id": "cordova-gallery-api",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arjunmenon/cordova-gallery-api"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "exif",
+    "photo-library",
+    "photo-album",
+    "photo-collection",
+    "photo-asset",
+    "thumbnail",
+    "gallery-api"
+  ],
+  "author": "Arjun Menon",
+  "license": "MIT",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/arjunmenon/cordova-gallery-api/issues"
+  },
+  "homepage": "https://github.com/arjunmenon/cordova-gallery-api#README"
+}
